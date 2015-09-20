@@ -4,18 +4,26 @@ html,body{
 
 #Tools{
 	text-align: center;
-	display: block;
-	background-color: yellow;
 }
 
-#Tools{
+#Canvas{
 	text-align: center;
-	display: block;
-	background-color: yellow;
+	border-radius: 5px;
+	background-color: white;
 }
 
-#Tools{
+#Tutorial{
 	text-align: center;
-	display: block;
-	background-color: yellow;
+	border-radius: 5px;
+	background-color: red;
+}
+
+.border1{
+	width:100%;
+	height:100%;
+	margin-top:10px;
+	border: black medium solid;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
 }
